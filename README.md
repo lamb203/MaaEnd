@@ -20,5 +20,5 @@ Powered by [MaaFramework](https://github.com/MaaXYZ/MaaFramework) & [MXU](https:
 
 ## 沟通交流
 
-- 用户 QQ 群: 1072587329
+- 用户 QQ 群: 1078075580
 - 开发 QQ 群: 1072587329
