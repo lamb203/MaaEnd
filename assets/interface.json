@@ -59,7 +59,10 @@
             "label": "🎮打开游戏",
             "entry": "AndroidOpenGame",
             "default_check": true,
-            "description": "打开游戏"
+            "description": "打开游戏",
+            "controller": [
+                "ADB"
+            ]
         },
         {
             "name": "DailyRewards",
@@ -85,6 +88,9 @@
                 "AutoFight",
                 "AutoPick",
                 "AutoTaskInterval"
+            ],
+            "controller": [
+                "Win32"
             ]
         }
     ],
